@@ -9,8 +9,9 @@
 <img src="./img/login_activity.jfif" alt="drawing" width="200"/>
 
 File - file yang kami gunakan : 
-1. [Layout Utama](app\src\main\res\layout\activity_main.xml)
-2. Aset Gradien, Radius, Icon
+1. Layout Utama - (app\src\main\res\layout\activity_main.xml)
+2. [*Layout utama xml di Pastebin*](https://pastebin.com/T9KXGQNz )
+3. Aset Gradien, Radius, Icon
     - Gradien (app\src\main\res\drawable\edit_text_bg.xml)
     - Edit Text Radius - (app\src\main\res\drawable\edit_text_bg.xml)
     - Icon (Reveal Pass) - (app\src\main\res\drawable\reveal.xml)
