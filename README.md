@@ -10,5 +10,8 @@
 
 File - file yang kami gunakan : 
 1. [Layout Utama](app\src\main\res\layout\activity_main.xml)
-2. [Aset Gradien, Radius, Icon](C:\Users\mrofi\AndroidStudioProjects\MPPL_P6\app\src\main\res\drawable)
+2. Aset Gradien, Radius, Icon
+    - [Rounded Edit Text](app\src\main\res\drawable\edit_text_bg.xml)
+    - [Gradient Background](app\src\main\res\drawable\gradient.xml)
+    - [Password Reveal](app\src\main\res\drawable\reveal.xml)
 
