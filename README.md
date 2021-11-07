@@ -10,5 +10,8 @@
 
 File - file yang kami gunakan : 
 1. [Layout Utama](app\src\main\res\layout\activity_main.xml)
-2. [Aset Gradien, Radius, Icon](C:\Users\mrofi\AndroidStudioProjects\MPPL_P6\app\src\main\res\drawable)
+2. Aset Gradien, Radius, Icon
+    - Gradien (app\src\main\res\drawable\edit_text_bg.xml)
+    - Edit Text Radius - (app\src\main\res\drawable\edit_text_bg.xml)
+    - Icon (Reveal Pass) - (app\src\main\res\drawable\reveal.xml)
 
